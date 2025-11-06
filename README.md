@@ -143,7 +143,7 @@ Shows full profile data, extracted skills, experience, and AI-generated matching
 ## 👤 Author
 
 **Amine Kaoutar**  
-📧 [Your Email or LinkedIn Profile]  
+📧 [[LinkedIn Profile](https://www.linkedin.com/in/amine-kaoutar/)]  
 
 ---
 
