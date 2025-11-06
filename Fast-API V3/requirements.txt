@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+langdetect
+faiss-cpu
+numpy
+tqdm
+pandas
+sentence-transformers
+langchain
+langchain-groq
+groq
+PyMuPDF
+python-multipart
+huggingface_hub[hf_xet]
